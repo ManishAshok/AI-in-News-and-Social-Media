@@ -58,7 +58,15 @@ Visualizations are created to illustrate the sentiment trends and insights drawn
 ## Data Visualization
 
 The project includes various visualizations to illustrate the findings:
-
+<p align="center">
+  <img src="/images/channel_distribution_cleaned.png" alt="Sentiment Trends" width="600"/>
+</p>
+<p align="center">
+  <img src="/images/articles_over_time_cleaned.png" alt="Sentiment Trends" width="600"/>
+</p>
+<p align="center">
+  <img src="/images/wordcloud_headlines_cleaned.png" alt="Sentiment Trends" width="600"/>
+</p>
 <p align="center">
   <img src="/images/sentiment_trends.png" alt="Sentiment Trends" width="600"/>
 </p>
